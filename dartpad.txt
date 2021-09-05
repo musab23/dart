@@ -1,0 +1,17 @@
+void main() {
+  var name= ("musab\t\tfarooq");
+  print (name);
+  
+  var sub1 = 2;
+  var sub2 = 3;
+  print(sub1+sub2);
+  var i = 4;
+    var b = 5;
+  print (i+5);
+  var c = 4;
+    var d = 5;
+  print(c++);
+var e = 4;
+  var s = 5;
+  print(++e+s);
+ }
